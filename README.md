@@ -18,4 +18,5 @@
 
 | Description | link |
 |:---         |:---  |
-| My Nixos Config | [nixos-config](https://github.com/slimslslenderslacks/nixos-config) |
+| My Nixos Config | [nixos-config](https://github.com/slimslenderslacks/nixos-config/tree/slim/machine-rebased) |
+| Neovim Docker plugin | [nvim-docker](https://github.com/slimslenderslacks/nvim-docker) |
