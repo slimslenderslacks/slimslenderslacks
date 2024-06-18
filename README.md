@@ -1,16 +1,21 @@
-## Hi there 👋
+```
+        ""#      "                  ""#                      #               
+  mmm     #    mmm    mmmmm   mmm     #     mmm   m mm    mmm#   mmm    m mm 
+ #   "    #      #    # # #  #   "    #    #"  #  #"  #  #" "#  #"  #   #"  "
+  """m    #      #    # # #   """m    #    #""""  #   #  #   #  #""""   #    
+ "mmm"    "mm  mm#mm  # # #  "mmm"    "mm  "#mm"  #   #  "#m##  "#mm"   #    
+                                                                             
+                                                                             
+                                                                             
+        ""#                  #                                               
+  mmm     #     mmm    mmm   #   m   mmm                                     
+ #   "    #    "   #  #"  "  # m"   #   "                                    
+  """m    #    m"""#  #      #"#     """m                                    
+ "mmm"    "mm  "mm"#  "#mm"  #  "m  "mmm"                     
+```
 
-<!--
-**slimslenderslacks/slimslenderslacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Links
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Description | link |
+|:---         |:---  |
+| My Nixos Config | [nixos-config](https://github.com/slimslslenderslacks/nixos-config) |
